@@ -1,6 +1,6 @@
 # Hi 👋 I'm Lathika
 
-🎓 2nd Year CSE (AI & ML) Student  
+🎓 CSE (AI & ML) Student  
 📘 NPTEL Certified  
 💻 Learning Python, C, Git & AI/ML  
 ☁️ Exploring Cloud & Software Development
